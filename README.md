@@ -17,6 +17,16 @@ cadastro_spec.js
 
 O cypress irá abrir uma instância do browser e iniciar a execução dos testes
 
+-
+A estrutura dos testes estão nos seguintes diretórios/arquivos:
+index.js
+cypress/support/PageObject/Cadastro/index.js
+
+Cadastro_spec.js
+cypress/integration/cadastro_spec.js
+
+elements.js
+cypress/support/PageObject/Cadastro/elements.js
 
 
 
