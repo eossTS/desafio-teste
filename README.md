@@ -11,9 +11,10 @@ npm install cypress --save-dev
 
 ./node_modules/.bin/cypress open
 
-o sistema irá abrir uma instância do Cypress, com o projeto aberto
+o sistema irá abrir uma instância do Cypress, com o projeto aberto.
 Abra o arquivo:
 cadastro_spec.js
+
 O cypress irá abrir uma instância do browser e iniciar a execução dos testes
 
 
