@@ -29,5 +29,11 @@ elements.js
 cypress/support/PageObject/Cadastro/elements.js
 
 
+Os casos de testes e bug report estão nos seguintes arquivos:
+
+README_BugReport.md
+README_TestCases.md
+
+
 
 
